@@ -6,7 +6,7 @@ Meu nome e Gabriel Fernando
 
 -Estou me desenvolvendo na linguagem JavaScript
 
-_Utilizo este espaço para o compartilhamento dos meus projetos desenvolvidos
+-Utilizo este espaço para o compartilhamento dos meus projetos desenvolvidos
 
 ### Alguns de meus hobbies 🫀
 
