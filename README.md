@@ -1,8 +1,8 @@
 ### Boas vindas ao meu perfil 🍀
 
-Meu nome e Gabriel Fernando(https://www.alura.com.br)
+Meu nome e Gabriel Fernando
 
-- Estou estudando na [Alura]
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo este espaço para o compartilhamento dos meus projetos desenvolvidos
 
